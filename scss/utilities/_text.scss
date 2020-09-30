@@ -64,7 +64,7 @@
 
 .text-break {
   word-break: break-word !important; // IE & < Edge 18
-  overflow-wrap: break-word !important;
+  word-wrap: break-word !important;
 }
 
 // Reset
