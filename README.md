@@ -3,7 +3,7 @@
     <img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
   </a>
 </p>
-
+#align center used for center the element
 <h3 align="center">BOOTSTRAP</h3>
 
 <p align="center">
